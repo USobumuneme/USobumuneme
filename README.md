@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @USobumuneme
-- 👀 I’m interested in Back End Engineering
-- 🌱 I’m currently learning @ progate
-- 💞️ I’m looking to collaborate on
-- 📫 I can be reached via uwahsalome@gmail.com
+- 👀 I’m interested in Back End Engineering, Artificial Intelligence, AI models deveploment, Research,
+- 🌱 I’m currently learning @ Center of Intelligence of Things at the University of Greater Manchester,
+- 💞️ I’m looking to collaborate on AI and Supply Chain, AI and Medicine, AI and Law, AI and Sports, AI and HR
+- 📫 I can be reached via s.uwah@ieee.org
 
 <!---
 USobumuneme/USobumuneme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
