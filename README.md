@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @USobumuneme
+- 👋 Hi, I’m @Salome Uwah
 - 👀 I’m interested in Back End Engineering, Artificial Intelligence, AI models deveploment, Research,
 - 🌱 I’m currently learning @ Center of Intelligence of Things at the University of Greater Manchester,
 - 💞️ I’m looking to collaborate on AI and Supply Chain, AI and Medicine, AI and Law, AI and Sports, AI and HR
